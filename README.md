@@ -1,6 +1,4 @@
-# Ramp Challenge
-
-Thanks for applying to Ramp. Solve this CTF[1] challenge and add the result to your application.
+# Decode Challenge
 
 We recommend opening this file with a Markdown viewer. (https://www.google.com/search?q=markdown+viewer)
 
